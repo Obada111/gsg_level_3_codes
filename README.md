@@ -1,18 +1,16 @@
-#this course videos for GSG CP links 
+#this course videos for GSG CP links with Dr.Amjad and Eng.Mohammed wawi
 #
  https://www.youtube.com/live/HRQFjj_ZX5o?si=n8KpE1OQz48T8v2k
 https://www.youtube.com/live/c6PnT8tJIIA?si=pHlvv_fiEojUXSeA
  https://www.youtube.com/live/Kle9tA7gUyQ?si=6wiXOmyJRpKpGgnD
  https://www.youtube.com/live/TQNXsHBCZC4?si=DRWAXPaBHatXam4K
  https://www.youtube.com/live/Zn0N8UvHM8o?si=DZ6rFuRr0SkLSNsR
- https://gazaskygeeks.zoom.us/meeting/register/crAZ3lxsQJK-pg3qB7qZIg
  https://youtube.com/live/uZ3E9y7bRaA
  https://www.youtube.com/live/n4jZiEZMdfw?si=g1kNRf6MMyb_kbSW
  https://youtube.com/live/eIJVLvWQ9DE
  https://youtube.com/live/b7lfaiGAZM4
  https://www.youtube.com/live/GfJNs9SvCRA?si=0FVls_AfaBa94u2
  https://www.youtube.com/live/c20-iMEeE2A?si=FkMkKXjofpssPV87
- https://gazaskygeeks.zoom.us/meeting/register/crAZ3lxsQJK-pg3qB7qZIg
  https://www.youtube.com/live/w4RMC8KsTNg?si=F2RFLdgE0DuPqEMI
  https://www.youtube.com/live/V8G3ca7Wh88
  https://www.youtube.com/live/qSUPFwYkzRA?si=76LTI_6rgvwDKmYq
@@ -26,7 +24,6 @@ https://www.youtube.com/live/c6PnT8tJIIA?si=pHlvv_fiEojUXSeA
  https://www.youtube.com/live/mENP5Ofq8dk?si=_aBPRQJebyAqZ_YW
  https://www.youtube.com/live/mENP5Ofq8dk?si=JNx-iJFgW_1jUMnq
  https://www.youtube.com/live/CK_N71ck7rI
- Learn from the best international grandmaster on the internet
 https://www.youtube.com/watch?v=YBSt1jYwVfU&authuser=0
 https://www.youtube.com/watch?v=1mtvm2ubHCY&authuser=0
 https://www.youtube.com/watch?v=pwpOC1dph6U&authuser=0
