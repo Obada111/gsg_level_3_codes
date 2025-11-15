@@ -20,14 +20,6 @@ https://www.youtube.com/live/c6PnT8tJIIA?si=pHlvv_fiEojUXSeA
  https://www.youtube.com/live/VHSe5ttmCY0?si=Fy-QvPdUotw-g-LX
  https://www.youtube.com/live/Wskai2tBsVM?si=3S3v_2ncClEhy9mJ
 
-
-https://codeforces.com/group/9QrbarK7qH/contest/479657
-
-https://codeforces.com/group/9QrbarK7qH/contest/491247
-
-https://codeforces.com/group/isP4JMZTix/contest/424304
-
-https://codeforces.com/gym/302977
  https://www.youtube.com/live/hBG_4G1ngu0
  https://www.youtube.com/live/hBG_4G1ngu0
  https://www.youtube.com/live/d5dQBPeCsYs?si=bmIfa_bhi_mLW8yD
@@ -41,10 +33,24 @@ https://www.youtube.com/watch?v=pwpOC1dph6U&authuser=0
 https://www.youtube.com/live/ZuwNT8A2FQI?si=FL1Y-Is48G5lP2Ik
  https://www.youtube.com/live/Dm6T-dfWc20?si=TmZndnQDAB_rwOB0
  https://www.youtube.com/live/_pX6ahb_ZQ4?si=wzZFDfhaZfus5yv1
+ #some problem
+ #
  https://codeforces.com/problemset/problem/918/A
 https://codeforces.com/problemset/problem/110/A
 https://codeforces.com/problemset/problem/121/A
-هاي اسئلة ريكيرجن للي بحب يتدرب ويجرب
+ https://codeforces.com/gym/302977
+
+
+#
+#some groups 
+#
+https://codeforces.com/group/9QrbarK7qH/contest/479657
+
+https://codeforces.com/group/9QrbarK7qH/contest/491247
+
+https://codeforces.com/group/isP4JMZTix/contest/424304
+ https://codeforces.com/group/MWSDmqGsZm/contest/223339
+
+#
  https://www.youtube.com/live/pFYTbWpM5uc?si=_8HfLr-YwjczIUN3
  https://www.youtube.com/live/scmC-PsQQCc?si=FOjALBm9hd1ZXc9V
- https://codeforces.com/group/MWSDmqGsZm/contest/223339
