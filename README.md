@@ -41,7 +41,7 @@ https://codeforces.com/problemset/problem/121/A
  https://codeforces.com/gym/302977
 
 
-#
+#                                                                                                                                                                                                                                                                        
 #some groups 
 #
 https://codeforces.com/group/9QrbarK7qH/contest/479657
