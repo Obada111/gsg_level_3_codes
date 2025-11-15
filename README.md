@@ -1,4 +1,5 @@
 #this course videos for GSG CP links 
+#
 [10/9/2025 8:11 PM] ÔBÀĐÃ Ĵóbà 💚: https://www.youtube.com/live/HRQFjj_ZX5o?si=n8KpE1OQz48T8v2k
 [10/9/2025 8:12 PM] ÔBÀĐÃ Ĵóbà 💚: https://www.youtube.com/live/c6PnT8tJIIA?si=pHlvv_fiEojUXSeA
 [10/9/2025 8:12 PM] ÔBÀĐÃ Ĵóbà 💚: https://www.youtube.com/live/Kle9tA7gUyQ?si=6wiXOmyJRpKpGgnD
