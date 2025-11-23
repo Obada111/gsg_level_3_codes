@@ -1,8 +1,8 @@
 #this course videos for GSG CP level 3 advanced topic 70 hours links with Dr.Amjad and Eng.Mohammed wawi
 #
 #Here the list
-#https://www.youtube.com/playlist?list=PLV-pOnilkSzDwGdl0PjGFiC-QEX_s7txt
 #
+https://www.youtube.com/playlist?list=PLV-pOnilkSzDwGdl0PjGFiC-QEX_s7txt
 #
 #
  https://www.youtube.com/live/HRQFjj_ZX5o?si=n8KpE1OQz48T8v2k
